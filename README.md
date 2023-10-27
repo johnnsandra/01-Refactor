@@ -1,1 +1,2 @@
 # 01-Refactor testing
+As a Devloper, I want to create a webpage that is accessible to viewers that may have visual disabilities. So that it can be available to all who wish view it's content. I also want to format the page so that it will be near the top in searches performed in search engines.I want to make various attributes available simplify navigation on the site and improve the user experience so that people will continue to visit the site.
